@@ -1,7 +1,7 @@
 # Detective Conan Anime Subtitle Project:
 
 This project contains an organized and nearly complete collection of **Detective Conan anime subtitles**,  
-including main episodes, movies, and side works.
+including main episodes, movies, enhanced raws, specials, and side works.
 
 - **Episodes:** 1–1159  
 - **Movies:** 1–27  
@@ -14,7 +14,7 @@ including main episodes, movies, and side works.
 ## 📂 Main Structure:
 
 ### **Original**
-> New/old episodes with the old quality
+> New/old episodes in original (older) quality
 
 ### **Remastered**
 > Re-aired episodes
@@ -34,13 +34,13 @@ including main episodes, movies, and side works.
 - **OVA**  
   Anime OVAs
 
-- **Kaito 1412**  
+- **MAGIC KAITO 1412**  
   Magic Kaito 1412 anime episodes
 
-- **Hanzawa**  
+- **Hannin no Hanzawa-san**  
   The Culprit Hanzawa anime episodes
 
-- **Zero Tea Time**  
+- **Zero no Tea Time**  
   Zero's Tea Time anime episodes
 
 - **Gosho Aoyama Collection of Short Stories**  
@@ -52,13 +52,19 @@ including main episodes, movies, and side works.
 - **Live Action**  
   Japanese live action movies + episodes
 
+- **Shin Samurai-den Yaiba**  
+  Yaiba (2025 version)
+
+  - **Kenyuu Densetsu Yaiba**  
+    Yaiba (1993 version)
+
 ---
 
 ## ⚠️ Important Notes:
 
 - Any episode/movie/OVA etc. not included is either:
   - Released **as hardsub only**, or  
-  - I simply **forgot to add it**
+  - I simply **forgot to add it**  
 
   You can remind me of any available **softsub** episode via my Discord:  
   **`akai_3m_amouro`**
@@ -66,6 +72,6 @@ including main episodes, movies, and side works.
 - **Translator credits are preserved** in the filenames.  
   Any file without a translator name is either:
   - By an unknown translator  
-  - Or uploaded without credit originally
+  - Or uploaded without credit originally  
 
   So I didn’t include the name in those cases.
