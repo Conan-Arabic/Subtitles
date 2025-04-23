@@ -1,11 +1,11 @@
-# Detective Conan Anime Subtitle Project:
+# Detective Conan Anime Arabic Subtitle Project:
 
-This project contains an organized and nearly complete collection of **Detective Conan anime subtitles**,  
+This project contains an organized and nearly complete collection of **Detective Conan anime arabic subtitles**,  
 including main episodes, movies, enhanced raws, specials, and side works.
 
 - **Episodes:** 1–1159  
 - **Movies:** 1–27  
-- **Episodes with enhanced raws**  
+- **Episodes with enhanced raws** 
 - **Special episodes**  
 - **OVAs and side works**
 
