@@ -33,13 +33,13 @@
 - **OVA**  
   أوفا الأنمي
 
-- **Kaito 1412**  
+- **MAGIC KAITO 1412**  
   حلقات أنمي كايتو كيد
 
-- **Hanzawa**  
+- **Hannin no Hanzawa-san**  
   حلقات أنمي المجرم هانزاوا
 
-- **Zero Tea Time**  
+- **Zero no Tea Time**  
   حلقات أنمي وقت زيرو لشرب الشاي
 
 - **Gosho Aoyama Collection of Short Stories**  
@@ -51,6 +51,10 @@
 - **Live Action**  
   أفلام + حلقات اللايف آكشن الياباني
 
+- **Shin Samurai-den Yaiba**
+  حلقات أنمي يايبا (نسخة 2025)
+  - **Kenyuu Densetsu Yaiba**
+  - حلقات أنمي يايبا (نسخة 1993)
 ---
 
 ## ⚠️ ملاحظات هامة:
