@@ -67,7 +67,7 @@ including main episodes, movies, enhanced raws, specials, and side works.
   - I simply **forgot to add it**  
 
   You can remind me of any available **softsub** episode via my Discord:  
-  **`akai_3m_amouro`**
+  **`q3yb`**
 
 - **Translator credits are preserved** in the filenames.  
   Any file without a translator name is either:
