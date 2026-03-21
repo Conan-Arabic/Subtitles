@@ -3,8 +3,8 @@
 This project contains an organized and nearly complete collection of **Detective Conan anime arabic subtitles**,  
 including main episodes, movies, enhanced raws, specials, and side works.
 
-- **Episodes:** 1–1169  
-- **Movies:** 1–27  
+- **Episodes:** 1–1193  
+- **Movies:** 1–28  
 - **Episodes with enhanced raws** 
 - **Special episodes**  
 - **OVAs and side works**
@@ -17,22 +17,23 @@ including main episodes, movies, enhanced raws, specials, and side works.
 > New/old episodes in original (older) quality
 
 ### **Remastered**
-> Re-aired episodes
+> Re-aired episodes + Netflix/Crunchyroll remaster episodes 
 
 ### **Crunchyroll Remastered**
-> Episodes with enhanced Crunchyroll raws
+> Episodes with enhanced Crunchyroll raws ( unkown translation source)
 
 ### **Netflix Remastered**
-> Episodes with enhanced Netflix raws
+> Episodes with enhanced Netflix raws (unkown translation source)
 
 ### **Movies**
-> Movies + special movies
+> Movies
+### **Specials**
+> Special episodes
+### **Ai**
+> ai translation for the episodes
 
 ### **Others**
 > Side works:
-
-- **OVA**  
-  Anime OVAs
 
 - **MAGIC KAITO 1412**  
   Magic Kaito 1412 anime episodes
@@ -46,8 +47,8 @@ including main episodes, movies, enhanced raws, specials, and side works.
 - **Gosho Aoyama Collection of Short Stories**  
   Gosho Aoyama's short story collection
 
-- **Specials**  
-  Special episodes
+- **Special**  
+Non-anime episodes or external works
 
 - **Live Action**  
   Japanese live action movies + episodes
@@ -75,3 +76,6 @@ including main episodes, movies, enhanced raws, specials, and side works.
   - Or uploaded without credit originally  
 
   So I didn’t include the name in those cases.
+
+
+- A very special thank you to brother moh for helping me with this collection 
